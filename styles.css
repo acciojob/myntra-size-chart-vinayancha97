@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+table,tr,td{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+td{ text-align:left;
+	borders:1px solid black;
+	width:100px;
+}
+row1{
+	text-align:right;
+	background-color:
+}
+th{
+	border:1px solid black;
+	text-align:left;
+}
