@@ -8,9 +8,9 @@ td{ text-align:left;
 	borders:1px solid black;
 	width:100px;
 }
-row1{
+.row1{
 	text-align:right;
-	background-color:
+	background-color: red;
 }
 th{
 	border:1px solid black;
